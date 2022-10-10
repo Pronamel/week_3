@@ -4,7 +4,7 @@
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
     background-color: #81F499;
 
@@ -34,6 +34,6 @@ h2 {
 
 .item{
 
-    font-family:
+    font-family: 'Silkscreen' , cursive;
 
 }
