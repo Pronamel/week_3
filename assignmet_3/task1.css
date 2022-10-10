@@ -32,10 +32,9 @@ h2 {
     padding:20px;
 }
 
-.item{
+.item, .price{
 
     font-family: 'Silkscreen' , cursive;
-    color:pink;
-
+    color:red;
 
 }
