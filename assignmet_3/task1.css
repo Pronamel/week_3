@@ -18,6 +18,7 @@ h1 , h2 {
     border-bottom-width:5px;
     border-bottom-style:solid;
     text-align: center;
+    margin-top:20px;
 }
 
 h1 {
