@@ -1,31 +1,29 @@
-/* 
-#706C61
-
-*/
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Silkscreen&display=swap');
+
+
+
+
+
+
+
+
 body {
     background-color: #81F499;
-
 }
 
 header {
-
     font-size: 50px;
-
 }
 
 h1 , h2 {
-
     font-family: 'Roboto' , cursive ;
     color: #1548a7;
-    text-align: center;
-    
+    text-align: center; 
 }
 
 .menu{
-
     max-width: 720px;
     background-color: white;
     margin: auto;
@@ -33,8 +31,6 @@ h1 , h2 {
 }
 
 .item, .price{
-
     font-family: 'Silkscreen' , cursive;
     color:red;
-
 }
