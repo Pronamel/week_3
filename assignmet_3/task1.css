@@ -11,14 +11,19 @@ header {
     font-size: 50px;
 }
 
-h2 {
+h1 , h2 {
     font-family: 'Roboto' , cursive ;
     color: #1548a7;
-    font-size:40px;
     border-bottom-color:green ;
     border-bottom-width:5px;
     border-bottom-style:solid;
     text-align: center;
+}
+
+h1 {
+
+    font-size:40px;
+
 }
 
 .menu{
