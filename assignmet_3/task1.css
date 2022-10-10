@@ -21,6 +21,9 @@ h1 , h2 {
     font-family: 'Roboto' , cursive ;
     color: #1548a7;
     text-align: center; 
+    border-bottom-color:green ;
+    border-bottom-width:5px;
+    border-bottom-style:solid;
 }
 
 .menu{
