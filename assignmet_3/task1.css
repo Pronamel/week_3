@@ -33,7 +33,15 @@ h1 , h2 {
     padding:20px;
 }
 
-.item, .price{
+.item{
     font-family: 'Silkscreen' , cursive;
     color:red;
+}
+
+.price{
+
+    font-family:'Silkscreen' , cursive;
+    color: rgb(146, 4, 4);
+    font-size: 10px;
+    
 }
